@@ -1,6 +1,6 @@
 
-<p align='center' style="height:100px; width:200px">
-    <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif">
+<p align='center'>
+    <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 </p>
 
 
