@@ -1,5 +1,5 @@
 
-<p align='center' style="height:200px;">
+<p align='center' style="height:100px; width:200px">
     <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif">
 </p>
 
