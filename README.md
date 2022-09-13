@@ -3,6 +3,10 @@
     <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 </p>
 
+### Snake eating my contributions graph :snake:
+
+![snake gif](https://github.com/FjorelaV/FjorelaV/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **FjorelaV/FjorelaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
