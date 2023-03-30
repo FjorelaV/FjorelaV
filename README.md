@@ -21,10 +21,10 @@ Snake eating my contributions graph :snake:
 <hr/>
 <div>
 <a href="https://github.com/FjorelaV/FjorelaV">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=FjorelaV&show_icons=true&theme=solarized-dark&count_private=true" />
+  <img align="left" src="https://github-readme-stats-fjorelav.vercel.app/api?username=FjorelaV&show_icons=true&theme=solarized-dark&count_private=true" />
 </a>
 <a href="https://github.com/FjorelaV/FjorelaV">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FjorelaV&layout=compact" />
+  <img align="right" src="https://github-readme-stats-fjorelav.vercel.app/api/top-langs/?username=FjorelaV&layout=compact" />
 </a>
 </div>
 
