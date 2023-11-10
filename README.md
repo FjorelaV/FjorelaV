@@ -14,9 +14,9 @@
     </p>
 
 <hr/>
-Snake eating my contributions graph :snake:
+<!-- Snake eating my contributions graph :snake: -->
 
-![snake gif](https://github.com/FjorelaV/FjorelaV/blob/output/github-contribution-grid-snake.gif)
+<!--  ![snake gif](https://github.com/FjorelaV/FjorelaV/blob/output/github-contribution-grid-snake.gif)
 
 <hr/>
 <div>
@@ -26,8 +26,7 @@ Snake eating my contributions graph :snake:
 <a href="https://github.com/FjorelaV/FjorelaV">
   <img align="right" src="https://github-readme-stats-fjorelav.vercel.app/api/top-langs/?username=FjorelaV&layout=compact" />
 </a>
-</div>
-
+</div>-->
 <!--
 **FjorelaV/FjorelaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
